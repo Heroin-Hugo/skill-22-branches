@@ -1,6 +1,37 @@
 body
 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(90, 16, 16);
+    background-color: rgb(0, 0, 0);
     color: rgb(253, 253, 253);
+    
+}
+h1{
+    color: rgb(0, 185, 210);
+        text-shadow: 0 0 20px rgb(6, 208, 239);
+        text-align: center;
+        padding-top: 30px;
+}
+header {
+    color: rgb(255, 0, 238);
+}
+#Hugo {
+    color: rgb(255, 234, 0);
+        text-shadow: 0 0 20px rgb(184, 184, 8);
+}
+#Cooper {
+    color: rgb(82, 234, 11);
+        text-shadow: 0 0 20px rgb(39, 246, 2);
+}
+#Kenny {
+    color: rgb(143, 6, 207);
+        text-shadow: 0 0 20px rgb(175, 3, 248);
+}
+#Timo {
+    color: rgb(198, 16, 3);
+        text-shadow: 0 0 20px rgb(220, 13, 2);
+}
+
+p{
+    color: rgb(42, 52, 165);
+    text-shadow: 0 0 10px rgb(45, 2, 200)
 }
